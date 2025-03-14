@@ -47,7 +47,7 @@ Enter math operation (+, -, *, /): +
 - Create a GUI version using Tkinter or PyQt.
 
 ## Author
-[Your Name]
+[Skyles]
 
 ## License
 This project is licensed under the MIT License.
